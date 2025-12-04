@@ -1350,8 +1350,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "atasen19/ai-libraries": {
+      "first_scan": "2025-12-04 03:17:59",
+      "last_scan": "2025-12-04 03:17:59",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 193,
-  "last_updated": "2025-11-29 03:17:52"
+  "total_scanned": 194,
+  "last_updated": "2025-12-04 03:17:59"
 }
