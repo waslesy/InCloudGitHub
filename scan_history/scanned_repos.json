@@ -1721,8 +1721,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "HyperSynapseNetwork/Neuro-finetune": {
+      "first_scan": "2026-01-31 04:04:54",
+      "last_scan": "2026-01-31 04:04:54",
+      "findings_count": 18,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "mohammedhalim1/brandgen_ai": {
+      "first_scan": "2026-01-31 04:04:58",
+      "last_scan": "2026-01-31 04:04:58",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 246,
-  "last_updated": "2026-01-21 04:17:38"
+  "total_scanned": 248,
+  "last_updated": "2026-01-31 04:04:58"
 }
